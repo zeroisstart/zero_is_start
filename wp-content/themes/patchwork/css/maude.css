@@ -1,0 +1,56 @@
+/*
+ *
+ * @package Patchwork
+ *
+ */
+ 
+th {
+	background-color: #63b6b1;
+}
+a,
+a:visited {
+	color: #cf534d;
+}
+a:hover,
+a:focus,
+a:active {
+	color: #cf534d;
+	border-bottom: 1px dashed #cf534d;
+}
+#masthead {
+	background-image:url(../images/patchwork.jpg);
+	border-bottom: 10px solid #46433a;
+}
+#masthead hgroup {
+	border: 10px solid #46433a;
+}
+#masthead .site-title,
+#masthead .site-title a {
+	color: #63b6b1;
+}
+#masthead .site-description {
+	color: #46433a;
+}
+.entry-title,
+.entry-title a {
+	color: #63b6b1;
+}
+h1.page-title {
+	color: #46433a;
+}
+.footer-bottom {
+	background-image:url(../images/patchwork.jpg);
+	border-top: 30px solid #46433a;
+}
+.main-navigation,
+.main-navigation ul li {
+	background-color: #63b6b1;
+}
+h2.widget-title,
+h2.widget-title a {
+	color: #63b6b1;
+}
+a.post-edit-link,
+a.post-edit-link:hover { 
+	background-color: #46433a;
+}
